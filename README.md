@@ -1,2 +1,2 @@
 # drum_kit
-A simple program that simulates playing drums
+This is a simple program that simulates playing drums
